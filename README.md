@@ -8,7 +8,7 @@ Covers these tests:
 ### <i>Test takes 20000 bits in output</i>
 
 ## Structure description
-- `operations/operations.go` - exists useful funcs(random sequence generation and func for a simpler work with Poker's test
+- `operations/operations.go` - exists useful funcs(random sequence generation and func for a simpler work with Poker's test)
 - `staticTests/maxlength.go` - series(length) implementation
 - `staticTests/maxrun.go` - maximum series(run) test implementation
 - `staticTests/monobit.go` - monobit test implementation.
